@@ -1,0 +1,20 @@
+*{
+    border: 0px;
+}
+.main{
+    margin-top: 5%;
+    margin-left: 30%;
+    width: 500px;
+    background-color: rgba(0, 0, 0, 0.486);
+    text-align: center;
+    border-radius: 10px;
+}
+input{
+    margin-top: 30px;
+    width: 450px;
+    height: 35px;
+    margin-bottom: 10px;
+}
+.int{
+    background-color: green;
+}
