@@ -60,7 +60,7 @@ const handleChange = (event) => {
             <div className="main">
             <div>
             {completed === true ? (
-              <div className="registration">
+              <div className="register">
            <p>Registration completedfull</p>
            </div>) : (' ')}
             
